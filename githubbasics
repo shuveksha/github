@@ -1,0 +1,5 @@
+Some useful github commands
+--------------------------------------------------
+finding origin of repo
+git remote -v
+---------------------------------------------
