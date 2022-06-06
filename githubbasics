@@ -1,13 +1,13 @@
 Some useful github commands
 --------------------------------------------------
 finding version of github
-git remote -v
+git-v
 ---------------------------------------------
 see the status of files 
 git status
 -----------------------------------------------
 creating new repositary in internet
-git add remote
+git add remote origin
 --------------------------------------------
 git log
 to see the previous commits
@@ -15,5 +15,9 @@ to see the previous commits
 git commit - "message" 
 to commit the file
 --------------------------------
-
-
+see the origin of repo
+git remote -v
+----------------------------
+links remote and local repo
+git push -u origin master
+-------------------------------
