@@ -20,3 +20,5 @@ git remote -v
 links remote and local repo
 git push -u origin master
 -------------------------------
+deleting index file
+rm -f .git/index.lock
